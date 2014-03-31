@@ -7,7 +7,7 @@ http://svmiller.com/miscellany/clean-usaid-greenbook/
 
 Here is a summary of what this code will do:
 
-Summarizes all economic aid programs from 1946 to 2011, collapsing the summary into one output for each recipient country in a given year.
+Summarizes all economic aid programs from 1946 to 2012, collapsing the summary into one output for each recipient country in a given year.
 - Adds the 1976 transitional quarter to the 1976 fiscal year commitment. The United States government changed its fiscal year in 1976, creating this transitional quarter in the first place.
 - Converts the data from wide to long, creating time series cross-sectional data amenable to analysis in programs like Stata.
 - Eliminates financial aid commitments to regions and other non-states.
